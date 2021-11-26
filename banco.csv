@@ -1,9 +1,9 @@
-,Produto,Quant,21-11-2021,22-11-2021
-0,Bala,654.0,323,32.0
-1,Pirulito,,435,123.0
-2,Salgadinho,,34,321.0
-3,Bolacha,,54,645.0
-4,Doce de Banana,,76,87.0
-5,Coca-Cola,,45,5.0
-6,Pepsi,,87,32.0
-7,Guarana,,32,
+,Produto,Quant,21-11-2021,22-11-2021,25-11-2021
+0,Bala,654.0,323,32.0,32
+1,Pirulito,,435,123.0,23
+2,Salgadinho,,34,321.0,43
+3,Bolacha,,54,645.0,54
+4,Doce de Banana,,76,87.0,12
+5,Coca-Cola,,45,5.0,32
+6,Pepsi,,87,32.0,12
+7,Guarana,,32,,3
